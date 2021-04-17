@@ -1,0 +1,20 @@
+symbols:
+  - BTC
+  - ETH
+  - BNB
+  - DOT
+  - ADA
+  - BTT
+  - MANA
+  - REN
+  - RUNE
+  - ENJ
+  - ONE
+  - RVN
+  - AAVE
+  - XLM
+  - GO
+
+targets:
+ - USDT
+ - BTC
