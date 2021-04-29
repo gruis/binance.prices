@@ -13,6 +13,8 @@ symbols:
   - RVN
   - AAVE
   - XLM
+  - LINK
+  - CAKE
   - GO
 
 targets:
