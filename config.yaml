@@ -14,7 +14,9 @@ symbols:
   - AAVE
   - XLM
   - LINK
+  - RAMP
   - CAKE
+  - MATIC
   - GO
 
 targets:
