@@ -17,6 +17,7 @@ symbols:
   - RAMP
   - CAKE
   - MATIC
+  - AVAX
   - GO
 
 targets:
