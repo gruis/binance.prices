@@ -18,6 +18,9 @@ symbols:
   - CAKE
   - MATIC
   - AVAX
+  - SOL
+  - 1INCH
+  - INJ
   - GO
 
 targets:
