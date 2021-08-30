@@ -21,6 +21,8 @@ symbols:
   - SOL
   - 1INCH
   - INJ
+  - FTM
+  - AR
   - GO
 
 targets:
